@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sahil",
+      "fatherName": "Mitha Khan",
+      "age": 25,
+      "email": "mazaritec@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Adnan",
+      "fatherName": "Sahil Khan",
+      "age": 18,
+      "email": "adnan@gmail.com"
+    },
+    {
+      "id": "6d50890d-08aa-481e-8a76-05ccfac6059b",
+      "name": "Sahil Mazari",
+      "fatherName": "test",
+      "age": 22,
+      "email": "mazaritec@gmail.com"
+    },
+    {
+      "id": "a9cf5a59-3b30-43d6-8255-db52bf416fe4",
+      "name": "Apple",
+      "fatherName": "test",
+      "age": 55,
+      "email": "apple@gmail.com"
+    },
+    {
+      "id": "a744d6a0-8fd4-4888-afb1-f1c0c4ca6423",
+      "name": "Test1",
+      "fatherName": "F test1",
+      "age": 43,
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "11667281-b9aa-4c0a-9beb-a975603ee13f",
+      "name": "Sahil Mazari",
+      "fatherName": "dd",
+      "age": 18,
+      "email": "shahroosahil@gmail.com"
+    },
+    {
+      "id": "b0bacc82-9214-4283-b96d-ce8f761d4f58",
+      "name": "Test4",
+      "fatherName": "F Test4",
+      "age": 55,
+      "email": "mtest4@gmail.com"
+    },
+    {
+      "id": "8e6a3b7e-e18e-4236-94ae-1c86bb4b2aa6",
+      "name": "Test",
+      "fatherName": "F Test",
+      "age": 33,
+      "email": "sahil@gmailcom"
+    }
+  ]
+}
